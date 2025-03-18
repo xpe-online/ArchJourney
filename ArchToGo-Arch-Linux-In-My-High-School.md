@@ -4,7 +4,7 @@
 
 # By snow@ArchToGo-snow
 
-## 2025.03.17
+### 2025.03.17
 
 这个希沃白板一体机，太抽象了，只要显示器黑屏（也就是系统没有输入的时候），再亮屏，主屏就会自动亮起 
 
@@ -30,3 +30,8 @@ CPU: Intel(R) Core(TM) i7-8700 (12) @ 4.60 GHz
 `git branch -m main`
 `git add .`
 `git commit -m "Initialized the repository and uploaded 20250317."`
+
+### 2025.03.18
+
+在自己的Arch Linux上做ppt可太舒服了）
+OnlyOffice好玩（?
