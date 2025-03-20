@@ -50,3 +50,20 @@ OnlyOffice好玩（?
 还想着截图然后
 `ffplay ./homework.png`
 的））
+
+### 20250320 
+
+gcc好玩））
+`gcc ./test.c -o c`
+`g++ ./test.cpp -o cpp`
+C和C++的速度差异真的太大了
+附源码
+`include <iostream> // include <stdio.h>`
+``
+`int main(){`
+`    std::cout << "Arch is the best!\n" // printf("Arch is the best!\n")`
+`    return 0;`
+`}`
+
+话说我也好久没有碰cpp了(c更是没学过)
+想当年我还是OIer(半吊子.jpg)
