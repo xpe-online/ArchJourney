@@ -51,7 +51,7 @@ OnlyOffice好玩（?
 `ffplay ./homework.png`
 的））
 
-### 20250320 
+### 2025.03.20 
 
 gcc好玩））
 `gcc ./test.c -o c`
@@ -67,3 +67,9 @@ C和C++的速度差异真的太大了
 
 话说我也好久没有碰cpp了(c更是没学过)
 想当年我还是OIer(半吊子.jpg)
+
+### 2025.03.31 
+
+明天就要回家了，回去把neovim和jdk等配置好，再看看能不能带个ollama来玩(?
+下周就要开始研究课题和学Node.js了
+话说我写这个使用日志的时候甚至是用neovim手搓markdown语法而不是用Obsidian
